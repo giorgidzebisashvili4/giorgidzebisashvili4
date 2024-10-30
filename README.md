@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is giorgi dzebisashvili
 ============================================================================================================================================
 
-full stack React developer | ui ux designer
+Full Stack React Developer | UI/UX Designer
 -------------------------------------------
 
 I'm a Full-Stack React Developer passionate about building dynamic, user-focused applications. With a background in graphic design and two years of hands-on experience in full-stack development, I combine creative design and technical skills to deliver impactful digital solutions. Let’s build something great!
