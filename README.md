@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is giorgi dzebisashvili
 ============================================================================================================================================
 
-full stack React developer | ui ux designer
+Junior Data Analyst | BI Enthusiast | Former Full-Stack Dev & UI/UX Designer
 -------------------------------------------
 
-I'm a Full-Stack React Developer passionate about building dynamic, user-focused applications. With a background in graphic design and two years of hands-on experience in full-stack development, I combine creative design and technical skills to deliver impactful digital solutions. Let’s build something great!
+I'm transitioning into the data analytics and BI field, leveraging a background in full-stack development and UI/UX to approach data with both logic and clarity. I work with Python, SQL, and visualization tools to turn raw data into clear, actionable insights. My previous experience building dashboards and working with real-world datasets has shaped my current focus: helping teams make smarter, data-informed decisions.
 
 * 🌍  I'm based in Georgia, Tbilisi
 * 🖥️  See my portfolio at [MyPortfolio](http://giorgi-dzebisashvili.netlify.app/)
 * ✉️  You can contact me at [giorgidzebisashvili4@gmail.com](mailto:giorgidzebisashvili4@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on projects
+* 🧠  I'm learning Power BI
+* 🤝  Open to remote data-related opportunities & collaborations
 
 ### Skills
 
