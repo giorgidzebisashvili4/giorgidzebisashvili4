@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Data Analyst | BI Enthusiast | Former Full-Stack Dev & UI/UX Designer
 -------------------------------------------
 
-I'm transitioning into the data analytics and BI field, leveraging a background in full-stack development and UI/UX to approach data with both logic and clarity. I work with Python, SQL, and visualization tools to turn raw data into clear, actionable insights. My previous experience building dashboards and working with real-world datasets has shaped my current focus: helping teams make smarter, data-informed decisions.
+Transitioning into data analytics and BI, I combine my background in full-stack development and design to bring structure, clarity, and visual precision to data. I work with Python, SQL, and Power BI to transform raw information into clear, actionable insights. My hands-on experience with dashboards and real-world datasets fuels my mission to help teams make smarter, data-driven decisions.
 
 * 🌍  I'm based in Georgia, Tbilisi
 * 🖥️  See my portfolio at [MyPortfolio](http://giorgi-dzebisashvili.netlify.app/)
 * ✉️  You can contact me at [giorgidzebisashvili4@gmail.com](mailto:giorgidzebisashvili4@gmail.com)
-* 🧠  I'm learning Power BI
+* 🧠  Deepening expertise in Python
 * 🤝  Open to remote data-related opportunities & collaborations
 
 ### Skills
